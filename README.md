@@ -1,7 +1,4 @@
-<div align="center">
-  <h1>🔢 Neural Network Classifier for MNIST Dataset</h1>
-</div>
-
+🔢 # Neural Network Classifier for MNIST Dataset
 <div align="center">
   <img src="README/ANN.gif" alt="Animated Neural Network">
 </div>
