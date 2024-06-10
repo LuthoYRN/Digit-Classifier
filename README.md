@@ -60,7 +60,7 @@ Follow these steps to set up the project locally.
    ```sh
    python classifier.py
    ```
-   The program will prompt you to enter an image path when training is done. Enter the relative path to the image of the digit to be classified.
+   The program will prompt you to enter an image path after training is done. Enter the relative path to the image of the digit to be classified.
 
 ## 📌 Note
 
