@@ -20,7 +20,7 @@ This project implements a neural network classifier for recognizing handwritten 
 
 ## 📸 Screenshots
 
-<div style="align:center";>
+<div align="center">
    <img src="README/screenshot.png" alt="Sample Classification" width = "70%">
 </div>
 
