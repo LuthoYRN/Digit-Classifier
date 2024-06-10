@@ -1,4 +1,8 @@
-# 🔢 Neural Network Classifier for MNIST Dataset
+
+<div align="center">
+  #🔢 Neural Network Classifier for MNIST Dataset
+</div>
+
 
 <div align="center">
   <img src="README/ANN.gif" alt="Animated Neural Network">
