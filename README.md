@@ -1,8 +1,10 @@
 # 🔢 Neural Network Classifier for MNIST Dataset
 
-## Overview
+<div align="center">
+  <img src="README/ANN.gif" alt="Animated Neural Network">
+</div>
 
-<img src="README/ANN.gif">
+## Overview
 
 This project implements a neural network classifier for recognizing handwritten digits using the MNIST dataset. The neural network architecture consists of two hidden layers with ReLU activation functions and a softmax output layer for multi-class classification.
 
