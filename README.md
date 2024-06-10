@@ -1,4 +1,5 @@
-🔢 # Neural Network Classifier for MNIST Dataset
+# 🔢 Neural Network Classifier for MNIST Dataset
+
 <div align="center">
   <img src="README/ANN.gif" alt="Animated Neural Network">
 </div>
@@ -11,7 +12,7 @@ This project implements a neural network classifier for recognizing handwritten 
 
 - 🤖 Neural network classifier for digit recognition
 - 📊 Training and evaluation with accuracy metrics
-- 🖼️ Visualization of sample predictions
+- 🖼️ Input Image Predictions
 
 ## 📂 Files
 
@@ -21,7 +22,7 @@ This project implements a neural network classifier for recognizing handwritten 
 
 ## 📸 Screenshots
 
-<img src="README/screenshot.png" alt="Sample Classification">
+<img src="README/screenshot.png" alt="Sample Classification" width = "50%">
 
 ## 🔧 Installation
 
